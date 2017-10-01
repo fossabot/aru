@@ -3,6 +3,8 @@
 </p>
 
 # Aru
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fperhion%2Faru.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fperhion%2Faru?ref=badge_shield)
+
 A Discord Bot Powered by Eris.
 
 A pre-hosted version of the bot can be added to your server at:
@@ -40,3 +42,7 @@ module.exports = function(bot) {
 	});
 };
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fperhion%2Faru.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fperhion%2Faru?ref=badge_large)
